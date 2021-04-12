@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/safex-claims/static/css/main.bf4183c4.chunk.css",
+    "main.js": "/safex-claims/static/js/main.32fc416d.chunk.js",
+    "main.js.map": "/safex-claims/static/js/main.32fc416d.chunk.js.map",
+    "runtime-main.js": "/safex-claims/static/js/runtime-main.2a4b9430.js",
+    "runtime-main.js.map": "/safex-claims/static/js/runtime-main.2a4b9430.js.map",
+    "static/js/2.c70117d9.chunk.js": "/safex-claims/static/js/2.c70117d9.chunk.js",
+    "static/js/2.c70117d9.chunk.js.map": "/safex-claims/static/js/2.c70117d9.chunk.js.map",
+    "index.html": "/safex-claims/index.html",
+    "static/css/main.bf4183c4.chunk.css.map": "/safex-claims/static/css/main.bf4183c4.chunk.css.map",
+    "static/js/2.c70117d9.chunk.js.LICENSE.txt": "/safex-claims/static/js/2.c70117d9.chunk.js.LICENSE.txt",
+    "static/media/loading.dbb22bcf.gif": "/safex-claims/static/media/loading.dbb22bcf.gif",
+    "static/media/metamask.09e5f554.svg": "/safex-claims/static/media/metamask.09e5f554.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a4b9430.js",
+    "static/js/2.c70117d9.chunk.js",
+    "static/css/main.bf4183c4.chunk.css",
+    "static/js/main.32fc416d.chunk.js"
+  ]
+}
